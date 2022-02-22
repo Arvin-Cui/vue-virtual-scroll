@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "virtual-list": "/pages/index/VirtualList"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="_div"><virtual-list vue-id="8dd740cc-1" listData="{{data}}" itemSize="{{100}}" bind:__l="__l"></virtual-list></view>
